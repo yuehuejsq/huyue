@@ -11,7 +11,7 @@
 <br>
 <div><a href="https://down2.yui-kangestu-79019.xyz/android/huyue20240927/huyuejsq_v2.1.4_huyue.apk" target="_blank">Android安卓客户端下载</a></div>
 <div><a href="https://down2.yui-kangestu-79019.xyz/android/huyue20240927/huyuejsq_v2.1.4_huyue.apk" target="_blank">鸿蒙系统手机下载</a></div>
-<div><a href="https://down2.yui-kangestu-79019.xyz/pc/huyue20240927/HuYueSetup_24.09.27.01_huyue.exe" target="_blank">安装板</a></div>
+<div><a href="https://down2.yui-kangestu-79019.xyz/pc/huyue20240927/HuYueSetup_24.09.27.01_huyue.exe" target="_blank">windwos安装板</a></div>
 <div><a href="http://www.huyuejsq.com/courseDetailAppleStoreIdModifiction.html" target="_blank">Iphone & Ipad 商城版下载</a></div>
 <div><a href="http://www.huyuejsq.com/courseDetailAppleStoreMac.html" target="_blank">Mac商城版下载</a></div>
 <div><a href="http://huyuejsq.com" target="_blank"> 官方网站： huyuejsq.com    </a> </div>
