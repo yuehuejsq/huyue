@@ -12,15 +12,15 @@
 <div><a href="https://jjj.hydown.net/android/hy20250617/hy_v5.1.28_huyue.apk" target="_blank">Android安卓客户端下载</a></div>
 <div><a href="https://jjj.hydown.net/android/hy20250617/hy_v5.1.28_huyue.apk" target="_blank">鸿蒙系统手机下载（纯血的打开官网联系客服进行协助）</a></div>
 <div><a href="https://jjj.hydown.net/pc/hy20250702/HuYue_25.07.02.51_huyue.zip" target="_blank">windwos安装板</a></div>
-<div><a href="http://www.huyuejsq.com/courseDetailAppleStoreIdModifiction.html" target="_blank">Iphone & Ipad 商城版下载</a></div>
-<div><a href="http://www.huyuejsq.com/courseDetailAppleStoreMac.html" target="_blank">Mac商城版下载</a></div>
-<div><a href="http://huyuejsq.com" target="_blank"> 官方网站： huyuejsq.com    </a> </div>
+<div><a href="http://www.huyuejsq.co/courseDetailAppleStoreIdModifiction.html" target="_blank">Iphone & Ipad 商城版下载</a></div>
+<div><a href="http://www.huyuejsq.co/courseDetailAppleStoreMac.html" target="_blank">Mac商城版下载</a></div>
+<div><a href="http://huyuejsq.co" target="_blank"> 官方网站： huyuejsq.co    </a> </div>
 <br>
 <div>——————————————分割线——————————————</div>
 <br>
 
 
-<div><a href="https://taitongle.nizhidaowodetong.com/chatlink_jump.html" target="_blank">联系真人在线客服（点我）</a></div>
+<div><a href="https://messengerx.nizhidaowodetong.com/chatlink_jump.html?opt=open" target="_blank">联系真人在线客服（点我）</a></div>
 <div><a href="https://t.me/huyueVPN" target="_blank">加入telegram群组（需要翻墙才可以打开该链接），将有机会获得3天免费时长</a></div>
 <div>需商务合作请联系 邮箱 ：huyuejsq@gmail.com</a></div>
 <br>
@@ -48,15 +48,15 @@ English
 <div><a href="https://jjj.hydown.net/android/hy20250617/hy_v5.1.28_huyue.apk" target="_blank">Android download</a></div>
 <div><a href="https://jjj.hydown.net/android/hy20250617/hy_v5.1.28_huyue.apk" target="_blank">HongMeng download</a></div>
 <div><a href="https://jjj.hydown.net/pc/hy20250702/HuYue_25.07.02.51_huyue.zip" target="_blank">Windows Green board download</a></div>
-<div><a href="http://www.huyuejsq.com/courseDetailAppleStoreIdModifiction.html" target="_blank">Iphone & Ipad APPStore  download</a></div>
-<div><a href="http://www.huyuejsq.com/courseDetailAppleStoreMac.html" target="_blank">Mac APPstore download</a></div>
-<div><a href="http://huyuejsq.com" target="_blank">Official website： 、 huyuejsq.com </a> </div>
+<div><a href="http://www.huyuejsq.co/courseDetailAppleStoreIdModifiction.html" target="_blank">Iphone & Ipad APPStore  download</a></div>
+<div><a href="http://www.huyuejsq.co/courseDetailAppleStoreMac.html" target="_blank">Mac APPstore download</a></div>
+<div><a href="http://huyuejsq.co" target="_blank">Official website： 、 huyuejsq.co </a> </div>
 <br>
 <div>——————————————分割线——————————————</div>
 <br>
 
 
-<div><a href="https://taitongle.nizhidaowodetong.com/chatlink_jump.html" target="_blank">Contact real person online customer service (click me)</a></div>
+<div><a href="https://messengerx.nizhidaowodetong.com/chatlink_jump.html?opt=open" target="_blank">Contact real person online customer service (click me)</a></div>
 <div><a href="https://t.me/huyueVPN" target="_blank">Join a telegram group (you need to climb over the wall to open the link) and get a chance to get 3 days of free time</a></div>
 <div>For business cooperation, please contact email：huyuejsq@gmail.com</a></div>
 <br>
