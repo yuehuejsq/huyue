@@ -11,7 +11,7 @@
 <br>
 <div><a href="https://jjj.hydown.net/android/hy20260119/hy_v5.1.68_huyue.apk" target="_blank">Android安卓客户端下载</a></div>
 <div><a href="https://jjj.hydown.net/android/hy20260119/hy_v5.1.68_huyue.apk" target="_blank">鸿蒙系统手机下载（纯血的打开官网联系客服进行协助）</a></div>
-<div><a href="https://jjj.hydown.net/pc/hy20260114/HuYueSetup_26.01.14.51_huyue.exe" target="_blank">windwos安装板</a></div>
+<div><a href="https://jjj.hydown.net/pc/hy20260721/HuYue_26.07.21.51_huyue.zip" target="_blank">windwos绿色版</a></div>
 <div><a href="http://www.huyuejsq.co/courseDetailAppleStoreIdModifiction.html" target="_blank">Iphone & Ipad 商城版下载</a></div>
 <div><a href="http://www.huyuejsq.co/courseDetailAppleStoreMac.html" target="_blank">Mac商城版下载</a></div>
 <div><a href="http://huyuejsq.co" target="_blank"> 官方网站： huyuejsq.co    </a> </div>
@@ -47,7 +47,7 @@ English
 <br>
 <div><a href="https://jjj.hydown.net/android/hy20260119/hy_v5.1.68_huyue.apk" target="_blank">Android download</a></div>
 <div><a href="https://jjj.hydown.net/android/hy20260119/hy_v5.1.68_huyue.apk" target="_blank">HongMeng download</a></div>
-<div><a href="https://jjj.hydown.net/pc/hy20260114/HuYue_26.01.14.51_huyue.zip" target="_blank">Windows Green board download</a></div>
+<div><a href="https://jjj.hydown.net/pc/hy20260721/HuYue_26.07.21.51_huyue.zip" target="_blank">Windows Green board download</a></div>
 <div><a href="http://www.huyuejsq.co/courseDetailAppleStoreIdModifiction.html" target="_blank">Iphone & Ipad APPStore  download</a></div>
 <div><a href="http://www.huyuejsq.co/courseDetailAppleStoreMac.html" target="_blank">Mac APPstore download</a></div>
 <div><a href="http://huyuejsq.co" target="_blank">Official website： 、 huyuejsq.co </a> </div>
