@@ -57,6 +57,6 @@ English
 
 
 <div><a href="https://support.huyuesupport.com/chatlink_jump.html?opt=open" target="_blank">Contact real person online customer service (click me)</a></div>
-<div><a href="https://t.me/huyueVPN" target="_blank">Join a telegram group (you need to climb over the wall to open the link)</a></div>
+<div><a href="https://t.me/huyueVPN" target="_blank">Join a telegram group (You need to connect to a VPN to open this link)</a></div>
 <div>For business cooperation, please contact email：huyuejsq@gmail.com</a></div>
 <br>
